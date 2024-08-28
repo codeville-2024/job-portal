@@ -1,0 +1,275 @@
+#logo {
+    width: 200px;
+    height: 90px;
+    top: 49px;
+    left: 120px;
+    padding-left: 100px;
+}
+#contact-us {
+    color: #6300B3;
+    background-color: white;
+    font-weight: 600;
+}
+
+#Login {
+    color: white;
+    background-color: #6300B3;
+    font-weight: 600;
+}
+#rectangle-container {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-right: auto;
+}
+
+.headers{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-right: auto;
+    column-gap: 44px;
+}
+
+#button {
+     display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-right: 100px;
+    column-gap: 16.31px;
+}
+
+#rectangle-container {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+#contact-us {
+    width: 143.88px;
+    height: 56px;
+    top: 33px;
+    left: 1015.92px;
+    gap: 0px;
+    border-radius: 6px 6px 6px 6px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+#Login {
+    width: 143.88px;
+    height: 56px;
+    top: 33px;
+    left: 1015.92px;
+    gap: 0px;
+    border-radius: 6px 6px 6px 6px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+#body {
+     display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    column-gap: 10px
+}
+
+#search {
+    width: 288px;
+    height: 56px;
+    border-radius: 5px;
+    color: black;
+    text-decoration-color: black;
+}
+
+#location {
+    width: 288px;
+    height: 56px;
+    border-radius: 5px;
+    color: black;
+    text-decoration-color: black;
+}
+
+#find-job {
+    width:  133px;
+    height:  56px;
+    padding: 16px 32px 16px 32px;
+    border-radius: 4px;
+    color: white;
+    background-color: #6300B3;
+    font-weight: 600;
+}
+
+#h1-text {
+    width: 694px;
+    height: 116px;
+}
+#child{
+    width: 555px;
+    height: 18px;
+}
+
+#input {
+    margin-top: 150px
+}
+
+#parent {
+    background: linear-gradient(101.41deg, rgba(105, 35, 155, 0.36) -33.13%, rgba(197, 153, 229, 0) 48.49%, rgba(103, 40, 148, 0.48) 125.81%);
+    font-family: poppins;
+}
+
+#h1-p {
+    justify-content: center;
+    text-align: center;
+}
+
+.view-apply {
+    display: flex;
+    margin-top: 20px;
+}
+
+#apply-now {
+    margin-right: 20px;
+    width: 137px;
+    height: 39px;
+    border-radius: 4px;
+    background-color: #6300B3;
+    color: #efe2f8;
+}
+
+#view-details {
+    margin-right: 20px;
+    width: 137px;
+    height: 39px;
+    border-radius: 4px;
+    border-color: #6300B3;
+    color: black;
+}
+
+#first-div {
+    margin: 50px 50px 50px 50px;
+    background-color: #efe2f8;
+    padding: 20px;
+    border-radius: 10px;
+    width: 366px;
+}
+
+#employers-google-location {
+    display: flex;
+}
+
+#apple-image-content {
+    display: flex;
+}
+
+#second-div {
+    background-color: #efe2f8;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 366px;
+}
+
+#third-div {
+    background-color: #efe2f8;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 366px;
+}
+
+#intel-img-content {
+    display: flex;
+}
+
+#div-container {
+    display: flex;
+    justify-content: center;
+}
+
+#view-all {
+    text-align: center;
+}
+
+#p-footer {
+    font-size: 24px;
+    margin-top: 234px;
+    text-align: center;
+}
+
+#footers {
+    margin-top: 34px;
+    text-align: center;
+}
+
+#logo-img {
+    width: 388.27px;
+    height: 183.91px;
+}
+
+#footer-section {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 172px;
+    background: linear-gradient(101.41deg, rgba(105, 35, 155, 0.36) -33.13%, rgba(197, 153, 229, 0) 48.49%, rgba(103, 40, 148, 0.48) 125.81%);
+    margin-bottom: 50px;
+    padding: 100px;
+}
+
+#quicklink {
+    width: 300px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #6300B3;
+    padding-bottom: 70px;
+}
+
+#candidate {
+    width: 300px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #6300B3;
+    padding-bottom: 60px;
+}
+
+#Employer {
+    width: 300px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #6300B3;
+    padding-bottom: 60px;
+}
+
+#line {
+    border-bottom: 1px solid grey;
+    margin: 50px 0px 31px 0px;
+    margin-top: 60px;
+    width: 1800px;
+}
+
+#line-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#imgg {
+    width: 120px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+#footer-parent {
+    padding: 50px;
+}
+
+#gr {
+    display: flex;
+    justify-content: space-between;
+}
+
+#fcb {
+    width: 200px;
+    height: 30px;
+}
