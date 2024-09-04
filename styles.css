@@ -273,3 +273,287 @@
     width: 200px;
     height: 30px;
 }
+
+#first-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+#sales-rep {
+    margin-bottom: 0px;
+    width: 1000px;
+    height: 100px;
+}
+
+.buttons {
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: 70px;
+    width: 300px;
+}
+
+#parent-button {
+    margin-bottom: 50px;
+}
+
+#information {
+    display: flex;
+    justify-content: space-between;
+}
+
+#imgbtn{
+    column-gap: 1000px;
+}
+
+#btn {
+    color: green;
+    background-color: #efe2f8;
+    border: 1px solid #efe2f8;
+}
+
+a:link {
+    color: green;
+    background-color: #efe2f8;
+    border: 1px solid #efe2f8;
+    text-decoration: none;
+}
+
+#body-parent {
+    background: linear-gradient(101.41deg, rgba(50, 5, 82, 0.36) -33.13%, rgba(197, 153, 229, 0) 48.49%, rgba(103, 40, 148, 0.48) 125.81%);
+}
+
+#second-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#third-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#fourth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#fifth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#sixth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#seventh-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#eighth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#ninth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#tenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#eleventh-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#twelvth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#thirteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#fourteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#fifteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#sixteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#seventeenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#eighteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#ninteenth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+#twentieth-job {
+    color: beige;
+    margin: 50px 0px 50px 0px;
+    background-color: #5a2a7c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 1900px;
+    padding: 10px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
