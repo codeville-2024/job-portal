@@ -557,3 +557,115 @@ a:link {
     margin-bottom: 100px;
 }
 
+#searchboxes {
+    height: 67px;
+    width: 553px;
+    border-radius: 10px;
+}
+
+#boxes {
+    height: 67px;
+    width: 553px;
+}
+
+#filename {
+    background-color: #5a2a7c;
+    font-weight: 600;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: white;
+}
+
+#file {
+    font-weight: 600;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+#details-holder {
+    text-align: center;
+}
+
+#fill {
+    text-align: center;
+}
+
+#tick {
+    height: 30px;
+    width: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#cover {
+    text-align: center;
+    margin-top: 200px;
+    background-color: #efe2f8;
+    width: 800px;
+    margin-left: 600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+}
+
+#alog {
+    color: white;
+    background-color: #6300B3;
+    font-weight: 600;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#papa {
+    background-color: rgba(103, 40, 148, 0.48);
+}
+
+#bobo {
+    text-align: center;
+    margin-top: 100px;
+    background-color: #efe2f8;
+    width: 800px;
+    margin-left: 600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    margin-bottom: 200px;
+}
+
+#immgg {
+    margin-left: 200px;
+    margin-top: 200px;
+    width: 400px;
+    height: 400px;
+    margin-right: 200px;
+}
+
+#sss {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#immaaggee {
+    display: flex;
+}
+
+#tickp {
+    background-color: white;
+}
+
+#cont {
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    background-color: #6300B3;
+    margin-top: 100px;
+    margin-left: 980px;
+}
